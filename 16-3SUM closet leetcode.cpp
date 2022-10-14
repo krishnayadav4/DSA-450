@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // 3SUM solution
     int threeSumClosest(vector<int>& num, int target) {
     vector<int> v(num.begin(), num.end());
     int n = 0;
