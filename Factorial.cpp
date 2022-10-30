@@ -12,3 +12,4 @@ int main()
     cout<<"result is: "<<r;
     return 0;
 }
+//////////////////////////
